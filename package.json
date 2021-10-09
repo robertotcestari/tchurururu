@@ -1,0 +1,25 @@
+{
+  "name": "tchurururu",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "music",
+    "claudinho",
+    "bochecha"
+  ],
+  "bin": {
+    "tchurururu": "./index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/robertotcestari/tchurururu/issues"
+  },
+  "homepage": "https://github.com/robertotcestari/tchurururu",
+  "author": "Roberto Cestari",
+  "license": "MIT",
+  "dependencies": {
+    "progress": "^2.0.3"
+  }
+}
